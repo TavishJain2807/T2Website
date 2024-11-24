@@ -290,9 +290,8 @@ button {
 }
 
 .image_1 {
-    width: 100%;
     float: left;
-    border: 30px solid #929292;
+    border: 20px solid #929292;
 }
 
 .contact_bt {
