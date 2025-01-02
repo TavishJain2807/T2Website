@@ -284,12 +284,12 @@ button {
 }
 
 .image_main {
-    float: left;
+    height:10%;
     padding-top: 50px;
 }
 
 .image_1 {
-    float: left;
+    height:10%;
     border: 20px solid #929292;
 }
 
